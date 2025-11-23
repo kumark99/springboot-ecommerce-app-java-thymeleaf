@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../ModernOps-Architects-Documentation"
+		},
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
